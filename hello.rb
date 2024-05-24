@@ -4,4 +4,3 @@ def hello
   end
   
   puts hello
-  
